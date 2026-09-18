@@ -1,5 +1,11 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.backgroundImage {
+	background-image: url(../img/clock.png);
+	width: 400px;
+	height: 400px;
 }
